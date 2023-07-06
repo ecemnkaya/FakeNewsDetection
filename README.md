@@ -8,6 +8,6 @@ The term fake news refers to intentionally misleading or fabricated news article
 
 Dataset Used in Fake News Detection Project: https://github.com/sfkcvk/TurkishFakeNewsDataset
 
-The content of this study in GitHub is limited. If you have any questions or want to get any help please contact me!
+The content of this study in GitHub is limited. If you have any questions or want to get any help and read the Fake News Detection article please contact me!
 
 For contact: ecemnkaya.1@gmail.com
